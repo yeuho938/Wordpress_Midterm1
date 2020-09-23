@@ -1,0 +1,40 @@
+= 1.0.10 |  2020/09/01 =
+- Fixed - Version compatibility issue fixed
+- Fixed - Minor issue fixed
+- Added - Global Date Format Type & single page Date setting 
+- Added - Date Title setting
+
+= 1.0.9 |  2020/08/12 =
+- Fixed - Version compatibility issue fixed
+- Added - News ticker thumbnail style added
+- Added  - You missed section added
+- Fixed - Minor issue fixed
+= 1.0.8 |  2020/07/14 =
+- Fixed - WPML compatibility
+- Fixed - W3c validate issue fixed
+- Added - Go to top enable/disable options
+= 1.0.7 |  =
+- Pagination issue fixed
+= 1.0.6 | 2020/06/22 =
+- WooCommerce support
+- RTL issue fixed
+- Minor design issue fixed
+= 1.0.5 | 2020/06/15 =
+- Column widget post count issue fixed
+- Related Post wrapper issue fixed
+- Add filter on footer
+- Theme Issue fixed ( reported by review team )
+
+= 1.0.4 | 2020/06/11 =
+- Minor fixes
+- About Page & TGMPA added
+
+= 1.0.3 |  =
+- wp_nav_link issue fixed
+
+= 1.0.2 | 2020/06/06 =
+- Bug fix & minor fixes
+
+= 1.0.1 | 2020/05/30 =
+- Bug fix & minor fixes
+
