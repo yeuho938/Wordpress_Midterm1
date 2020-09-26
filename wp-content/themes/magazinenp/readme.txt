@@ -111,3 +111,4 @@ Images for theme screenshot
 Other Images, (C) mantrabrain
 Source: No source required, this resources were created by me from scratch -> ( theme author ) @ mantrabrain
 License: [GPLv2](https://www.gnu.org/licenses/gpl-2.0.html
+wordpress
